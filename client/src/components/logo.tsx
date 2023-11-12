@@ -1,5 +1,5 @@
-import DinnerDiningIcon from '@mui/icons-material/DinnerDining';
+import DinnerDiningIcon from "@mui/icons-material/DinnerDining";
 
 export function Logo() {
-    return <DinnerDiningIcon sx={{ marginRight: '5px' }} />;
+  return <DinnerDiningIcon sx={{ marginRight: "5px" }} />;
 }
